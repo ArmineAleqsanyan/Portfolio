@@ -1,0 +1,20 @@
+label {
+  color: azure;
+  margin-bottom: 10px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 10px;
+  margin: auto;
+  max-width: 600px;
+}
+form input,
+form textarea {
+  margin-bottom: 15px;
+  padding: 10px 18px;
+  font-size: 18px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.1);
+  color: beige;
+}
